@@ -1,5 +1,5 @@
 # Monday Coffee Expansion SQL Project
-[Company Banner](https://github.com/Suraj-singh048/Industry-Based-SQL-Analytics-Projects/blob/main/Project%20Coffee%20shop/Company%20Logo.png)![Business Goal](https://github.com/user-attachments/assets/a4b64e61-6a88-47ea-afda-8e12534f7103)
+![Business Goal](https://github.com/user-attachments/assets/a4b64e61-6a88-47ea-afda-8e12534f7103)
 
 
 ## Objective
