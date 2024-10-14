@@ -1,4 +1,5 @@
 # Monday Coffee Expansion SQL Project
+![Business Goal](https://github.com/user-attachments/assets/a4b64e61-6a88-47ea-afda-8e12534f7103)
 
 
 ## Objective
